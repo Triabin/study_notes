@@ -1,0 +1,15 @@
+[submodule "tauri_s"]
+	path = tauri_s
+	url = https://github.com/Triabin/tauri_s.git
+[submodule "dart_s"]
+	path = dart_s
+	url = https://github.com/Triabin/dart_s.git
+[submodule "python_s"]
+	path = python_s
+	url = https://github.com/Triabin/python_s.git
+[submodule "flutter_s"]
+	path = flutter_s
+	url = https://github.com/Triabin/flutter_s.git
+[submodule "rust_s"]
+	path = rust_s
+	url = https://github.com/Triabin/rust_s.git
