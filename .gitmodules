@@ -13,3 +13,6 @@
 [submodule "rust_s"]
 	path = rust_s
 	url = https://github.com/Triabin/rust_s.git
+[submodule "lecture-spring-ai"]
+	path = lecture-spring-ai
+	url = git@github.com:Triabin/lecture-spring-ai.git
